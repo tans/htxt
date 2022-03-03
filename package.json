@@ -1,0 +1,22 @@
+{
+  "name": "htxt",
+  "version": "0.0.1",
+  "description": "htxt是又一种纯文本标记语言。通过简单的变量定义和替换规则，可转化成任何足够丰富的html。",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tans/htxt.git"
+  },
+  "keywords": [
+    "htxt"
+  ],
+  "author": "tans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tans/htxt/issues"
+  },
+  "homepage": "https://github.com/tans/htxt#readme"
+}
